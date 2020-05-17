@@ -9,5 +9,5 @@ entries:
     type: application
     urls:
     - https://ryanelliottsmith.github.io/helm-testing/microservice-0.0.1.tgz
-    version: 0.0.1
+    version: 0.0.2
 generated: "2020-05-18T11:49:19.245632+12:00"
