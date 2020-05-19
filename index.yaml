@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  microservice:
+  - apiVersion: v1
+    created: "2020-05-19T14:39:05.74421+12:00"
+    description: microservice generic template for essentials
+    digest: 00f405eb3fa7d524dc254268de2a4308de417918150568807293cdf33db719a9
+    name: microservice
+    type: application
+    urls:
+    - https://ryanelliottsmith.github.io/helm-testing/microservice-0.0.1.tgz
+    version: 0.0.1
+generated: "2020-05-19T14:39:05.741638+12:00"
