@@ -3,7 +3,7 @@ entries:
   ibc2019-develop:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-09-07T16:28:25.320093+12:00"
+    created: "2020-09-07T16:31:54.056412+12:00"
     description: Full wellsite automation app for Well Integrity (develop release)
     digest: 996b40308737a752e58192047205b9c6afcfb9e2d76c956ac1629e3e9487aeb6
     name: ibc2019-develop
@@ -13,28 +13,18 @@ entries:
     version: 1.1.2643
   legos-wi-develop:
   - apiVersion: v2
-    appVersion: 1.1.78
-    created: "2020-09-07T16:28:25.322148+12:00"
+    appVersion: 1.1.79
+    created: "2020-09-07T16:31:54.057088+12:00"
     description: LegOS app for Well Integrity (develop release)
-    digest: a73971fa224799352c50ea42a1f58d26f47ca9748dbe157ac7df79d19f625d89
+    digest: 3d6c93cbcab40307e5d75cb127fed63d80884b295a162486a769a37240db91ce
     name: legos-wi-develop
     type: application
     urls:
-    - https://ryanelliottsmith.github.io/helm-testing/legos-wi-develop-1.1.78.tgz
-    version: 1.1.78
-  - apiVersion: v2
-    appVersion: 1.1.77
-    created: "2020-09-07T16:28:25.321502+12:00"
-    description: LegOS app for Well Integrity (develop release)
-    digest: fa420f886262dc4f96d2abb27548a81e3a2723d0046c081dfbc21c73fe9907fb
-    name: legos-wi-develop
-    type: application
-    urls:
-    - https://ryanelliottsmith.github.io/helm-testing/legos-wi-develop-1.1.77.tgz
-    version: 1.1.77
+    - https://ryanelliottsmith.github.io/helm-testing/legos-wi-develop-1.1.79.tgz
+    version: 1.1.79
   microservice:
   - apiVersion: v1
-    created: "2020-09-07T16:28:25.323246+12:00"
+    created: "2020-09-07T16:31:54.058007+12:00"
     description: microservice generic template for essentials
     digest: 00f405eb3fa7d524dc254268de2a4308de417918150568807293cdf33db719a9
     name: microservice
@@ -42,4 +32,4 @@ entries:
     urls:
     - https://ryanelliottsmith.github.io/helm-testing/microservice-0.0.1.tgz
     version: 0.0.1
-generated: "2020-09-07T16:28:25.317012+12:00"
+generated: "2020-09-07T16:31:54.053028+12:00"
